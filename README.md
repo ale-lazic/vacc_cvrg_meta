@@ -4,6 +4,12 @@ An internal meta-analysis of changes in vaccination intention from the situation
 
 It is reported in the doctoral dissertation by Aleksandra Lazić, _Communicating Vaccination Coverage: Testing the Selfish versus the Social Rationality Hypothesis_ (University of Belgrade, Faculty of Philosophy) from 2025; an open-access link will be added once available.
 
+## Forest Plot
+
+![Forest Plot](https://github.com/ale-lazic/vacc_cvrg_meta/blob/ae414a39ae877eb5a61fd9613b20779e500e861d/vacc_cvrg_meta_forestplot.png)
+
+<img src="https://github.com/ale-lazic/vacc_cvrg_meta/blob/ae414a39ae877eb5a61fd9613b20779e500e861d/vacc_cvrg_meta_forestplot.png" width=80% height=80% >
+
 ## Data Sources
 
 Effects for "Paper 2 Experiment" were computed using the data reported in:
