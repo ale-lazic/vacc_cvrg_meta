@@ -4,12 +4,12 @@ Year,Year when the paper was first published.,numeric,NA
 doi,DOI of the paper.,character,NA
 Study,"Paper and experiment label. ""Paper 2"" and ""Paper 3"" are the same paper labels as in the doctoral dissertation, which is composed of these papers. Within ""Paper 3"", the labels ""Pilot"", ""Experiment 1"", and ""Experiment 2"" match the terminology used in that paper.",character,NA
 Design,Whether vaccination coverage was manipulated between subjects or within subject.,character,Within; Between
-Coverage,"The manipulated vaccination coverage values expressed as percentages (e.g., ""20% vs. 80%""). Conditions where no vaccination coverage information was provided were coded as ""Absent"".",character,NA
+Coverage,"The manipulated low vs. high vaccination coverage values expressed as percentages (e.g., ""20% vs. 80%""). Conditions where no vaccination coverage information was provided were coded as ""Absent"".",character,NA
 N,Sample size.,numeric,NA
 N1,Sample size in the high vaccination coverage condition.,numeric,NA
 M1,Mean vaccination intention in the high vaccination coverage condition. ,numeric,NA
 SD1,Standard deviation of vaccination intention in the high vaccination coverage condition. ,numeric,NA
-N2,Sample size in the low vaccination coverage condition.,numeric,NA
-M2,Mean vaccination intention in the low vaccination coverage condition. ,numeric,NA
-SD2,Standard deviation of vaccination intention in the low vaccination coverage condition. ,numeric,NA
+N2,Sample size in the no or low vaccination coverage condition.,numeric,NA
+M2,Mean vaccination intention in the no or low vaccination coverage condition. ,numeric,NA
+SD2,Standard deviation of vaccination intention in the no or low vaccination coverage condition. ,numeric,NA
 Correlation,Reported Pearson correlation between M1 and M2.,numeric,NA
