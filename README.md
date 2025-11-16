@@ -6,9 +6,7 @@ It is reported in the doctoral dissertation by Aleksandra Lazić, _Communicating
 
 ## Forest Plot
 
-![Forest Plot](https://github.com/ale-lazic/vacc_cvrg_meta/blob/ae414a39ae877eb5a61fd9613b20779e500e861d/vacc_cvrg_meta_forestplot.png)
-
-<img src="https://github.com/ale-lazic/vacc_cvrg_meta/blob/ae414a39ae877eb5a61fd9613b20779e500e861d/vacc_cvrg_meta_forestplot.png" width=80% height=80% >
+![Forest Plot](vacc_cvrg_meta_forestplot.png)
 
 ## Data Sources
 
