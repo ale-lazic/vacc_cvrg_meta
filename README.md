@@ -2,7 +2,7 @@
 
 An internal meta-analysis of changes in vaccination intention from the situation when no or low (10% or 20%) vaccination coverage was communicated to the situation when high (80% or 90%) vaccination coverage was communicated.
 
-It is reported in the doctoral dissertation by Aleksandra Lazić, _Communicating Vaccination Coverage: Testing the Selfish versus the Social Rationality Hypothesis_ (University of Belgrade, Faculty of Philosophy) from 2025; an open-access link will be added once available.
+It is reported in the doctoral dissertation by Aleksandra Lazić, _Communicating Vaccination Coverage: Testing the Selfish versus the Social Rationality Hypothesis_ (University of Belgrade, Faculty of Philosophy) from 2025; available Open Access at: https://nardus.mpn.gov.rs/handle/123456789/23608 
 
 ## Forest Plot
 
