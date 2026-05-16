@@ -26,4 +26,5 @@ This repository contains the following data:
 
 * **dataset** and **codebook** (vacc_cvrg_meta.csv and vacc_cvrg_meta_codebook.csv)
 * **R code** (vacc_cvrg_meta.R) to reproduce the meta-analysis, including calculating effect sizes and sampling variances, and creating the forest plot
+* **HTML document** (vacc_cvrg_meta.html) with results and references for software and packages used; created from a .Rdm file; can be previewed here: https://htmlpreview.github.io/?https://github.com/ale-lazic/vacc_cvrg_meta/blob/1d79d6506bc5dca5333fa05cbfb95953817e904b/vacc_cvrg_meta.html
 * **forest plot** (vacc_cvrg_meta_forestplot.png)
